@@ -72,7 +72,8 @@ See [CONTRIBUTING](./CONTRIBUTING.md) for details. Thank you!
 **Software:**
 * [LibVA](https://github.com/intel/libva)
 * VAAPI backend driver:
-  * [Intel Media Driver for VAAPI](https://github.com/intel/media-driver)
+  * [Intel Media Driver for VAAPI](https://github.com/intel/media-driver). 
+* For pre-validated Intel Media Driver for VAAPI and LibVA release stack information please refer to [Intel Media Driver for VAAPI releases.](https://github.com/intel/media-driver/releases)
 * Some features require CM Runtime library (part of [Intel Media Driver for VAAPI](https://github.com/intel/media-driver) package)
 
 **Hardware:** Intel platforms supported by the [Intel Media Driver for VAAPI](https://github.com/intel/media-driver) starting with Tiger Lake.
